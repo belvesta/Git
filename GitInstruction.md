@@ -68,4 +68,4 @@ git branch -D <имя удаляемой ветки>
 ``` 
 ## 12. Обман VSCode.
 Можно пошутить над VSCode и напечатать самостоятельно конфликт (см. рисунок ниже). Но это не настоящий конфликт.
-[LiesConflicts](LiesVSC.jpg)
+![LiesConflicts](LiesVSC.jpg)
